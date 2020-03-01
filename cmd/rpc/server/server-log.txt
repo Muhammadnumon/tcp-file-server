@@ -1,0 +1,27 @@
+2020/03/01 16:16:49 starting server at: 0.0.0.0:9999
+2020/03/01 16:16:49 server started at: 0.0.0.0:9999
+2020/03/01 16:17:20 accepting connection
+2020/03/01 16:17:20 connection accepted
+2020/03/01 16:17:20 command received: list
+2020/03/01 16:17:20 options received: 
+2020/03/01 16:17:20 getting file list
+2020/03/01 16:17:20 file list received
+2020/03/01 16:17:20 closing connection
+2020/03/01 16:17:20 connection closed
+2020/03/01 16:17:44 accepting connection
+2020/03/01 16:17:44 connection accepted
+2020/03/01 16:17:44 command received: download
+2020/03/01 16:17:44 options received: firstfile.txt
+2020/03/01 16:17:44 opening file: firstfile.txt
+2020/03/01 16:17:44 closing file
+2020/03/01 16:17:44 file closed
+2020/03/01 16:17:44 closing connection
+2020/03/01 16:17:44 connection closed
+2020/03/01 16:18:07 accepting connection
+2020/03/01 16:18:07 connection accepted
+2020/03/01 16:18:07 command received: upload
+2020/03/01 16:18:07 options received: hhh.txt
+2020/03/01 16:18:07 writing to file
+2020/03/01 16:18:07 file written
+2020/03/01 16:18:07 closing connection
+2020/03/01 16:18:07 connection closed

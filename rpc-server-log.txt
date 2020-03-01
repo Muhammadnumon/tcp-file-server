@@ -1,0 +1,11 @@
+2020/03/01 16:14:34 starting server at: 0.0.0.0:9999
+2020/03/01 16:14:34 server started at: 0.0.0.0:9999
+2020/03/01 16:15:08 accepting connection
+2020/03/01 16:15:08 connection accepted
+2020/03/01 16:15:08 command received: list
+2020/03/01 16:15:08 options received: 
+2020/03/01 16:15:08 getting file list
+2020/03/01 16:15:08 can't read dir: open files/: The system cannot find the file specified.
+2020/03/01 16:15:08 file list received
+2020/03/01 16:15:08 closing connection
+2020/03/01 16:15:08 connection closed

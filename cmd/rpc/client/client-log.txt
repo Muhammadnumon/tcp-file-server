@@ -1,0 +1,35 @@
+2020/03/01 16:17:20 client connecting
+2020/03/01 16:17:20 client connected
+2020/03/01 16:17:20 command sending
+2020/03/01 16:17:20 command sent
+2020/03/01 16:17:20 get file list operations started
+2020/03/01 16:17:20 get file list operations ended
+2020/03/01 16:17:20 closing connection
+2020/03/01 16:17:20 connection closed
+2020/03/01 16:17:20 closing file
+2020/03/01 16:17:44 client connecting
+2020/03/01 16:17:44 client connected
+2020/03/01 16:17:44 command sending
+2020/03/01 16:17:44 command sent
+2020/03/01 16:17:44 download from server operations started
+2020/03/01 16:17:44 reading from client
+2020/03/01 16:17:44 saving file to 'files' path
+2020/03/01 16:17:44 download from server operations ended
+2020/03/01 16:17:44 closing connection
+2020/03/01 16:17:44 connection closed
+2020/03/01 16:17:44 closing file
+2020/03/01 16:18:07 client connecting
+2020/03/01 16:18:07 client connected
+2020/03/01 16:18:07 command sending
+2020/03/01 16:18:07 command sent
+2020/03/01 16:18:07 upload to server operations started
+2020/03/01 16:18:07 opening file
+2020/03/01 16:18:07 start sending file
+2020/03/01 16:18:07 52
+2020/03/01 16:18:07 file sent
+2020/03/01 16:18:07 closing file
+2020/03/01 16:18:07 file closed
+2020/03/01 16:18:07 upload to server operations ended
+2020/03/01 16:18:07 closing connection
+2020/03/01 16:18:07 connection closed
+2020/03/01 16:18:07 closing file
